@@ -1,4 +1,6 @@
-html-prototype-content
-======================
+HTML Prototype Content to Styling
+==================================
 
-HTML Prototype Style Content
+The provided HTML is to help quickly see all the necessary tags that need to be styled on most websites. 
+
+
